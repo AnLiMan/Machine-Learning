@@ -1,2 +1,1 @@
-# Recognition of defects on the metal surface, based on convolutional neural networks (CNN) and dataset of steel defects - NEU dataset
-# Free license
+CNN models to recognize 6 defects with an accuracy of 93.59% and 6 defects and images of a clean surface with an accuracy of 92.31%. The recognition time was 0.001384±5% seconds for all samples. As well, program give recommendations based on the most common defects of a particular type. An algorithm for recognizing defects was developed. Camera parameters for machine vision were calculated.
