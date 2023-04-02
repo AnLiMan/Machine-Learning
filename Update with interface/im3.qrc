@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>umnik.png</file>
+  </qresource>
+</RCC>
