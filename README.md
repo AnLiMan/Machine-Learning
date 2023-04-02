@@ -4,3 +4,6 @@ CNN models to recognize 6 defects with an accuracy of 93.59% and 6 defects and i
 ## Датасет и модель можно загрузить с Google.Disk 
 Датасет - https://drive.google.com/file/d/1rDPzh5P2rKIaSV_PduEoMttUndGvpzrL/view?usp=sharing
 Модель - https://drive.google.com/file/d/1GqPEY834joSFFVflvwcuPNtI3gYBLwNl/view?usp=sharing
+
+#Реализация системы компьютерного зрения с интерфейсом
+В рамках работы над "Умником" гранта от фонда содействия иновациям была разработа программа системы компьютерного зрения на языке python с интерфейсом. Данный проект находится в папке "Update with interface", внутри находятся 3 скрипта - "Main_ML.py", основной код для запуска интерфейса "ProgramInterface.ui", разработанного при помощи PyQTDesigner, а также скрипт для запуска камеры. Описание работы, возможно, недостатки и возможности для расширения функционала описаны в файле "Manual.pdf"
